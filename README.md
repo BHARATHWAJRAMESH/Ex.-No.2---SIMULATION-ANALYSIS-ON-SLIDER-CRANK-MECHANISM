@@ -47,8 +47,8 @@
 
 ![ex2](https://github.com/JEGADEESH07/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113497131/3a0f4c99-d4eb-447e-b03d-5333053d0963)
 
-### Name: ABISHEK XAVIER A
-### Register Number: 212222230004
+### Name: BHARATHWAJ R
+### Register Number: 212222240019
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
